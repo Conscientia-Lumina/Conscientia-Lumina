@@ -1,7 +1,7 @@
 # 👨🏻‍💻 Andrew Macedo 
 ***Senior Project Manager and Software Engineer***
 
-I design and build intelligent systems that drive efficiency and innovation across industries. With deep expertise in industrial automation, cloud infrastructure, and modern software development, I transform complex technical challenges into elegant solutions.
+I design and build intelligent systems that drive efficiency and innovation across industries. With deep expertise in industrial automation, App infrastructure, and modern software development, I transform complex technical challenges into elegant solutions.
 
 ## 💼 What I Do
 
