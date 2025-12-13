@@ -60,6 +60,34 @@ I design and build intelligent systems that drive efficiency and innovation acro
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Conscientia-Lumina&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Conscientia-Lumina&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Conscientia-Lumina&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Conscientia-Lumina
+&show_icons=true
+&include_all_commits=true
+&count_private=true
+&theme=transparent
+&bg_color=0d1117
+&title_color=39ff14
+&text_color=39ff14
+&icon_color=39ff14
+&border_color=39ff14)
+
+![](https://nirzak-streak-stats.vercel.app/?user=Conscientia-Lumina
+&theme=transparent
+&background=0d1117
+&stroke=39ff14
+&ring=39ff14
+&fire=39ff14
+&currStreakLabel=39ff14
+&sideLabels=39ff14
+&currStreakNum=39ff14
+&sideNums=39ff14
+&border=39ff14)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Conscientia-Lumina
+&layout=compact
+&theme=transparent
+&bg_color=0d1117
+&title_color=39ff14
+&text_color=39ff14
+&border_color=39ff14)
+
