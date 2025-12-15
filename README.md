@@ -60,8 +60,8 @@ I design and build intelligent systems that drive efficiency and innovation acro
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Conscientia-Lumina&show_icons=true&include_all_commits=true&count_private=true&theme=neon&hide_border=false)
-![](https://nirzak-streak-stats.vercel.app/?user=Conscientia-Lumina&theme=neon&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Conscientia-Lumina&layout=compact&theme=neon&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=Conscientia-Lumina&show_icons=true&include_all_commits=true&count_private=true&theme=neon&hide_border=true)
+![](https://nirzak-streak-stats.vercel.app/?user=Conscientia-Lumina&theme=neon&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Conscientia-Lumina&theme=neon&hide_border=true)
 
 
