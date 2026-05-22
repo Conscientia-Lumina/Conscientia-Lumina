@@ -40,9 +40,12 @@ I design and build intelligent systems that drive efficiency and innovation acro
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Conscientia-Lumina&show_icons=true&include_all_commits=true&count_private=true&theme=neon&hide_border=true)
-![](https://nirzak-streak-stats.vercel.app/?user=Conscientia-Lumina&theme=neon&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Conscientia-Lumina&theme=neon&hide_border=true)
+# 🧩 Recent Projects and Collabs [2026]:
+
+- **Claude Code**:  Agentic Behavior Training & Code Quality Assurance for Opus and Sonnet models
+- **Nvidia**:       Domain behavior and output refinement for German language models
+- **Meta AI**:      German RLHF and response factuality QC 
+- **Open AI**:      RLHF, SFT for GPT models 
+
 
 
