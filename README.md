@@ -11,7 +11,7 @@ I design and build intelligent systems that drive efficiency and innovation acro
 - **Robotics & Automation**: Leverage 5+ years of industrial programming expertise
 - **Data Operations**: Manage LLM training pipelines, RLHF workflows, and annotation systems
 
-## 🧩 Recent Projects and Collabs [2026]:
+## 🧩 Recent Projects and Collabs [2026]
 
 - **Claude Code**:  Agentic Behavior Training & Code Quality Assurance for Opus and Sonnet models
 - **Nvidia**:       Domain behavior and output refinement for German language models
@@ -27,7 +27,7 @@ I design and build intelligent systems that drive efficiency and innovation acro
 
 ## 💻 Tech Stack:
 
-##### Languages:
+##### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
 ##### Frontend
